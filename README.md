@@ -96,21 +96,6 @@ inventory.exe
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of:
-
-- Main Menu
-- Add Product
-- View Products
-- Search Product
-- Update Product
-- Delete Product
-
-Place them inside the **Screenshots** folder.
-
----
-
 ## 📚 Learning Outcomes
 
 This project helped strengthen my understanding of:
