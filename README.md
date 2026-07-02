@@ -1,95 +1,94 @@
 # 📦 Inventory Management System
 
-A console-based **Inventory Management System** developed in **C++** to efficiently manage product records. This project allows users to add, update, delete, search, and display inventory items through a simple menu-driven interface. It demonstrates the use of Object-Oriented Programming (OOP), file handling, and basic data management concepts.
+A console-based **Inventory Management System** developed in **C++** as a **Semester 3 Software Engineering project**. The application helps manage product records by allowing users to add, update, delete, search, and display inventory items through a simple menu-driven interface.
 
 ---
 
-## 📖 Overview
+## 📖 Project Overview
 
-The Inventory Management System is designed to help manage inventory records in an organized way. Users can perform various operations on product data, making it a useful project for learning C++ programming concepts and console application development.
+The Inventory Management System is designed to simplify inventory management by maintaining product information in an organized manner. This project demonstrates the practical implementation of **Object-Oriented Programming (OOP)** concepts, file handling, and basic data management techniques in C++.
+
+---
+
+## 🎓 Academic Information
+
+- **Project:** Inventory Management System
+- **Language:** C++
+- **Semester:** 3rd Semester
+- **Degree Program:** Software Engineering
+- **Project Type:** Academic Semester Project
 
 ---
 
 ## ✨ Features
 
-- ➕ Add new products
-- 📋 View all products
-- 🔍 Search for a product
-- ✏️ Update product information
-- ❌ Delete products
-- 💾 Store inventory records using file handling
-- 🖥️ User-friendly menu-driven interface
+- Add new products
+- View all products
+- Search for a product
+- Update product information
+- Delete products
+- Store inventory records
+- Menu-driven console interface
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Language:** C++
-- **IDE:** Visual Studio Code
-- **Programming Concepts:**
-  - Object-Oriented Programming (OOP)
-  - Classes & Objects
-  - Functions
-  - File Handling
-  - Data Management
+- C++
+- Object-Oriented Programming (OOP)
+- File Handling
+- Visual Studio Code
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 Inventory-Management-System/
 │
 ├── main.cpp
 ├── inventory.cpp
 ├── inventory.h
-├── products.txt      (if used)
 ├── README.md
 ├── .gitignore
 └── Screenshots/
-    ├── Home.png
-    ├── AddProduct.png
-    ├── SearchProduct.png
-    └── DeleteProduct.png
 ```
-
-> *Modify the folder structure above if your project files are different.*
 
 ---
 
 ## 🚀 How to Run
 
-### Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/AsjidButt053/Inventory-Management-System.git
 ```
 
-### Open the Project
+### 2. Open the Project
 
-Open the project folder in **Visual Studio Code** or any C++ IDE.
+Open the project folder in Visual Studio Code or any C++ IDE.
 
-### Compile the Program
+### 3. Compile
 
 ```bash
 g++ main.cpp -o inventory
 ```
 
-> If your project contains multiple source files, compile them together. Example:
+If there are multiple source files:
 
 ```bash
-g++ main.cpp inventory.cpp -o inventory
+g++ *.cpp -o inventory
 ```
 
-### Run the Program
+### 4. Run
 
-#### Windows
+**Windows**
 
 ```bash
 inventory.exe
 ```
 
-#### macOS / Linux
+**macOS / Linux**
 
 ```bash
 ./inventory
@@ -99,11 +98,8 @@ inventory.exe
 
 ## 📸 Screenshots
 
-Add screenshots of your application inside the **Screenshots** folder.
+You can add screenshots of:
 
-Example:
-
-- Home Screen
 - Main Menu
 - Add Product
 - View Products
@@ -111,11 +107,13 @@ Example:
 - Update Product
 - Delete Product
 
+Place them inside the **Screenshots** folder.
+
 ---
 
-## 🎯 Learning Outcomes
+## 📚 Learning Outcomes
 
-This project helped in understanding:
+This project helped strengthen my understanding of:
 
 - Object-Oriented Programming (OOP)
 - Classes and Objects
@@ -123,17 +121,17 @@ This project helped in understanding:
 - File Handling
 - Data Management
 - Console Application Development
-- Problem Solving using C++
+- Problem Solving in C++
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
 - Graphical User Interface (GUI)
-- Database Integration (MySQL / SQLite)
+- Database Integration (MySQL/SQLite)
 - User Authentication
-- Sales Reports
-- Barcode Scanner Support
+- Sales and Inventory Reports
+- Barcode Scanner Integration
 - Product Categories
 - Export Inventory Reports
 
@@ -145,10 +143,10 @@ This project helped in understanding:
 
 Software Engineering Student
 
-GitHub: https://github.com/AsjidButt053
+GitHub: **https://github.com/AsjidButt053**
 
 ---
 
 ## 📄 License
 
-This project is developed for educational purposes.
+This project is shared for educational and learning purposes.
